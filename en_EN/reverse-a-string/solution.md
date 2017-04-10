@@ -1,5 +1,5 @@
 # Solution - Reverse a string
----
+
 ### Basic solution - Step by step
 ```javascript
 function reverseString(str) {
