@@ -6,4 +6,4 @@ Exercícios, desafios e soluções do [FreeCodeCamp](https://www.freecodecamp.co
 ---
 
 ## Scripts de Algoritmo Básico
-[Reverta uma string](https://github.com/bcarvalho89/freecodecamp/pt_BR/reverta-uma-string)
+[Reverta uma string](https://github.com/bcarvalho89/freecodecamp/tree/master/pt_BR/reverta-uma-string)

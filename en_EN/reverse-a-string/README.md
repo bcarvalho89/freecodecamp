@@ -15,4 +15,4 @@ Reverse the provided string.
 - [Array.prototype.join()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join)
 
 ---
-#### [Solution](https://github.com/bcarvalho89/freecodecamp/blob/en_EN/reverse-a-string/solution.md)
+#### [Solution](https://github.com/bcarvalho89/freecodecamp/blob/master/en_EN/reverse-a-string/solution.md)

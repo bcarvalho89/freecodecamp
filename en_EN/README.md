@@ -6,4 +6,4 @@ Exercises, challenges and solutions of [FreeCodeCamp](https://www.freecodecamp.c
 ---
 
 ## Basic Algorithm Scripting
-[Reverse a string](https://github.com/bcarvalho89/freecodecamp/en_EN/reverse-a-string)
+[Reverse a string](https://github.com/bcarvalho89/freecodecamp/tree/master/en_EN/reverse-a-string)
