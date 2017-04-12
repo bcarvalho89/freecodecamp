@@ -15,4 +15,4 @@ Reverta a string fornecida.
 - [Array.prototype.join()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join)
 
 ---
-#### [Solução](https://github.com/bcarvalho89/freecodecamp/blob/master/pt_BR/reverta-uma-string/solucao.md)
+#### [Solução](https://github.com/bcarvalho89/freecodecamp/blob/master/pt_BR/reverter-uma-string/solucao.md)

@@ -5,6 +5,7 @@ Exercícios, desafios e soluções do [FreeCodeCamp](https://www.freecodecamp.co
 ---
 
 ## Scripts de Algoritmo Básico
-- [Reverta uma string](https://github.com/bcarvalho89/freecodecamp/tree/master/pt_BR/reverta-uma-string)
+- [Reverter uma string](https://github.com/bcarvalho89/freecodecamp/tree/master/pt_BR/reverter-uma-string)
 - [Fatorar um número](https://github.com/bcarvalho89/freecodecamp/tree/master/pt_BR/fatorar-um-numero)
 - [Verificar palíndromos](https://github.com/bcarvalho89/freecodecamp/tree/master/pt_BR/verificar-palindromos)
+- [Encontrar a palavra mais longa numa string](https://github.com/bcarvalho89/freecodecamp/tree/master/pt_BR/encontrar-a-palavra-mais-longa-numa-string)

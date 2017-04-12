@@ -13,4 +13,4 @@ Retorne o fatorial do inteiro fornecido.
 - [Factorialization](https://en.wikipedia.org/wiki/Factorial)
 
 ---
-#### [Solução](https://github.com/bcarvalho89/freecodecamp/blob/master/pt_BR/fatorar-o-numero/solucao.md)
+#### [Solução](https://github.com/bcarvalho89/freecodecamp/blob/master/pt_BR/fatorar-um-numero/solucao.md)
