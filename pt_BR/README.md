@@ -9,3 +9,4 @@ Exercícios, desafios e soluções do [FreeCodeCamp](https://www.freecodecamp.co
 - [Fatorar um número](https://github.com/bcarvalho89/freecodecamp/tree/master/pt_BR/fatorar-um-numero)
 - [Verificar palíndromos](https://github.com/bcarvalho89/freecodecamp/tree/master/pt_BR/verificar-palindromos)
 - [Encontrar a palavra mais longa numa string](https://github.com/bcarvalho89/freecodecamp/tree/master/pt_BR/encontrar-a-palavra-mais-longa-numa-string)
+- [Primeira letra maiúscula na frase](https://github.com/bcarvalho89/freecodecamp/tree/master/pt_BR/primeira-letra-maiuscula-na-frase)
